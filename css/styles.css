@@ -1,3 +1,15 @@
-.main image {
+.main img {
+  float:left;
+  max-width:200px;
+  width:33%;
+}
+.sidebar {
+  float:left;
+  width:30%;
+  border: solid black 5px;
+}
+.main {
+  width:60%;
+  border: solid black 5px;
   float:left;
 }
