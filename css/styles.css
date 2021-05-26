@@ -2,14 +2,19 @@
   float:left;
   max-width:200px;
   width:33%;
+  padding:1em;
 }
 .sidebar {
   float:left;
   width:30%;
   border: solid black 5px;
+  padding:3px;
+  margin:3px;
+  background-color:lavender;
+  box-sizing: border-box;
 }
 .main {
-  width:60%;
   border: solid black 5px;
   float:left;
+  max-width:60%;
 }
